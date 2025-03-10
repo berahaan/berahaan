@@ -5,13 +5,23 @@ Full Stack Developers
 ---------------------
 
 I'm a Computer Engineering student passionate about full-stack development and problem-solving. I enjoy working with modern web technologies and constantly seek to improve my skills in software development.
-What I Do:
-Full-Stack Development: Experienced in Vue (Nuxt 3), React (Next.js), GraphQL (Hasura), Express.js, and MongoDB/MySQL 
-Backend Development: Go (Golang), Node.js, REST APIs, and authentication systems 
-Frontend Development: Building dynamic and responsive UIs with Tailwind CSS Problem Solving
-- Practicing Data Structures & Algorithms (DSA) on LeetCode Software Engineering Best Practices
-- Continuously improving code structure, attention to detail, and critical thinking
-- 🔥 Projects & Experience: Developed a Cinema Schedule & Ticketing Website with online payment integration (Chapa) Currently redesigning the Hahu Jobs website from scratch using Nuxt 3 & Tailwind Participated in a Software Developer Internship at Minab IT Solutions
+- What I can Do ?
+  
+✔ Full-Stack Development: Experienced in Vue (Nuxt 3), React (Next.js), GraphQL (Hasura), Express.js, and MongoDB/MySQL 
+
+✔ Backend Development: Go (Golang), Node.js, REST APIs, and authentication systems 
+
+✔ Frontend Development: Building dynamic and responsive UIs with Tailwind CSS Problem Solving
+
+✔  Practicing Data Structures & Algorithms (DSA) on LeetCode Software Engineering Best Practices
+
+✔  Continuously improving code structure, attention to detail, and critical thinking
+
+🔥 Projects & Experience 
+
+✔ Developed a Cinema Schedule & Ticketing Website with online payment integration (Chapa) 
+
+✔ Currently redesigning the Hahu Jobs website from scratch using Nuxt 3 & Tailwind Participated in a Software Developer Internship at Minab IT Solutions
 
 *   🌍  I'm based in Ethiopia
 *   🖥️  See my portfolio at [here](http://portfolio-amtgcfl3b-berahaans-projects.vercel.app/)
