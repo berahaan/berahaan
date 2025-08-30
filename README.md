@@ -24,7 +24,6 @@ I'm a Computer Engineering student passionate about full-stack development and p
 ✔ Currently redesigning the Hahu Jobs website from scratch using Nuxt 3 & Tailwind Participated in a Software Developer Internship at Minab IT Solutions
 
 *   🌍  I'm based in Ethiopia
-*   🖥️  See my portfolio at [here](http://portfolio-amtgcfl3b-berahaans-projects.vercel.app/)
 *   ✉️  You can contact me at [berahaan@gmail.com](mailto:berahaan@gmail.com)
 *   🚀  I'm currently working on [HahuJobs](http://hahu.jobs)
 *   🧠  I'm learning OAuth authentication systems and Payment integration other than chapa
