@@ -1,35 +1,215 @@
-Hi 👋 My name is Birhan
-======================================================================================================================================
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=22F7A3&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%9A%80+SIYAMREGN+YESHIDAGNA;FULL-STACK+DEV+%7C+TECH+ARTISAN" alt="Animated Typing Header" />
+</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<p align="center">
+  I'm a <strong>Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.<br>
+  With a Bachelor's degree in <a href="#" target="_blank"><img src="https://img.shields.io/badge/Computer_Engineering-FF0000?style=flat&logoColor=white" alt="Computer Engineering"></a>, I have a solid foundation in both frontend and backend development.
+</p>
 
-Full Stack Developers
----------------------
+<p align="center">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=600&lines=I+transform+ideas+into+high-performance+apps;Specializing+in+scalable+web+solutions;Clean+code+fanatic+%7C+Debugging+ninja;Let's+build+something+amazing+together" alt="Typing SVG">
+  </a>
+</p>
 
-I'm a Computer Engineering student passionate about full-stack development and problem-solving. I enjoy working with modern web technologies and constantly seek to improve my skills in software development.
-- What I can Do ?
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siyamregn777&label=PROFILE+VISITS&color=2962FF&style=for-the-badge" alt="Profile Views" /> 
+  <img src="https://img.shields.io/badge/Daily_Coding_Streak-50+-brightgreen?style=for-the-badge" alt="Coding Streak">
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+
+## 🌟 **Tech Superpowers**
+
+<div align="center">
   
-✔ Full-Stack Development: Experienced in Vue (Nuxt 3), React (Next.js), GraphQL (Hasura), Express.js, and MongoDB/MySQL 
+| **Next.js Mastery** | **Debugging Wizardry** | **Performance Sorcery** |
+|---------------------|------------------------|-------------------------|
+| ![Next.js GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Debug GIF](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif) | ![Speed GIF](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif) |
+| SSR/SSG/ISR Expert | Squashing bugs like a pro | high Optimizing scores |
+| App Router Pro | Problem-solving ninja | Lighthouse optimization |
+| Edge Runtime | Algorithm master | Bundle size reduction |
 
-✔ Backend Development: Go (Golang), Node.js, REST APIs, and authentication systems 
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-✔ Frontend Development: Building dynamic and responsive UIs with Tailwind CSS Problem Solving
+## ⚡️ **Tech Stack Galaxy**
 
-✔  Practicing Data Structures & Algorithms (DSA) on LeetCode Software Engineering Best Practices
+<div align="center">
+  
+```mermaid
+pie showData
+    title My Tech Universe
+    "Next.js" : 35
+    "React Ecosystem" : 25
+    "Backend" : 15
+    "DevOps" : 15
+    "Testing (Jest)" : 10
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-✔  Continuously improving code structure, attention to detail, and critical thinking
+## ⚔️ Tech Weaponry
 
-🔥 Projects & Experience 
+| Frontend Arsenal | Backend Armory | Database Fortress | DevOps & Tools |
+|----------------------|--------------------|-----------------------|--------------------|
+| ![Frontend](https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,nextjs,redux&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,python,django,php,express,flask&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jest&theme=dark) |
+| JavaScript, React | Next.js , Node.js | MongoDB, PostgreSQL | Docker, AWS, Jest |
+| TypeScript, Next.js | Python , PHP | Firebase | Git, Version Control |
+| Tailwind, Redux | Django | supabase | Unit & Integration Testing |
 
-✔ Developed a Cinema Schedule & Ticketing Website with online payment integration (Chapa) 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-✔ Currently redesigning the Hahu Jobs website from scratch using Nuxt 3 & Tailwind Participated in a Software Developer Internship at Minab IT Solutions
+## 📊 GitHub War Room
+<div align="center">
+  
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
+</div>
 
-*   🌍  I'm based in Ethiopia
-*   ✉️  You can contact me at [berahaan@gmail.com](mailto:berahaan@gmail.com)
-*   🚀  I'm currently working on [HahuJobs](http://hahu.jobs)
-*   🧠  I'm learning OAuth authentication systems and Payment integration other than chapa
-*   🤝  I'm open to collaborating on Projects of any duration
-  ### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
-                
+
+</div>
+
+<!-- <div>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&random=1" width="90%"/>
+</div> -->
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+## 🏆 🏆 Golden Trophy Case
+<div align="center">
+  
+
+<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Commits,Issues,Stars,Repositories,Reviews,Followers" />
+
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎮 Debugging Arena
+const debugLikeABoss = (problem) => {
+  const solutions = [];
+  
+  while (!problem.isSolved()) {
+    const solution = analyze(problem);
+    solutions.push(solution);
+    problem.apply(solution);
+    
+    if (problem.isSolved()) {
+      celebrate();
+      return "✅ Bug squashed!";
+    }
+  }
+  
+  return "🏆 High score achieved!";
+}
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+</div>
+
+<div align="center">
+
+| Clean Code Addict | Learning Enthusiast |
+|-----------------------|-------------------------|
+| <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif" width="200"> |
+| Beautiful code is my caffeine | Currently mastering Next.js |
+| Refactoring is my therapy | Always exploring new tech |
+| TypeScript evangelist | Currently learning: Rust |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎨 Code Canvas
+
+<div align="center">
+  
+![3D Coding Sphere](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<!-- Email (mailto links don't need target="_blank") -->
+[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berahaan@gmail.com)
+
+<!-- Other social links with target="_blank" -->
+<a href="https://instagram.com/siyamregn3779" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://discordapp.com/users/siyamregn" target="_blank">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="https://t.me/siyamregn1" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
+<a href="https://wa.me/+251947363764" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎵 Coding Soundtrack
+
+<div align="center">
+    
+  <a href="https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+💡 Fun Facts
+    
+🕹 I treat debugging like a game
+    
+⚙️ I love clean code more than coffee
+    
+🌱 I never stop learning. My current obsession: NestJS best practices
+    
+🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
+<div align="center">
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+```
+
