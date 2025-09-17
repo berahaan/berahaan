@@ -65,10 +65,10 @@ content: |
 | TypeScript, Next.js                                                                                       | Python , PHP                                                                                                    | Firebase, Supabase                                                                  | Git, Version Control                                                                           |
 | Tailwind, Redux                                                                                           | Django                                                                                                          |                                                                                     | Unit & Integration Testing                                                                     |
 
- GitHub War Room
+## GitHub War Room
 <div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" /> </div>
 
- Golden Trophy Case
+## Golden Trophy Case
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Commits,Issues,Stars,Repositories,Reviews,Followers" /> </div>
 
 🎮 Debugging Arena
@@ -80,11 +80,10 @@ const debugLikeABoss = (problem) => {
     const solution = analyze(problem);
     solutions.push(solution);
     problem.apply(solution);
-    
-    if (problem.isSolved()) {
+     if (problem.isSolved()) {
       celebrate();
       return "✅ Bug squashed!";
-    }
+    }  
   }
   
   return "🏆 High score achieved!";
@@ -95,23 +94,27 @@ const debugLikeABoss = (problem) => {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berahaan@gmail.com)  
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siyamregn3779)  
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/siyamregn)  
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siyamregn1)  
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/birhanh)  
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bekind2yourself)  
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251947363764)
 
 </div>
 
 🎵 Coding Soundtrack
 <div align="center"> <a href="https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> </a> </div>
+<div>
 
-💡 Fun Facts
-🕹 I treat debugging like a game
-⚙️ I love clean code more than coffee
-🌱 I never stop learning (currently: NestJS best practices)
-🧩 I once optimized a UI so well, my mentor asked: “How did you do that?
+  
+</div>
+<div>
+  
+  ## 💡 Fun Facts
+- 🕹️ I treat debugging like a game
+- ⚙️ I love clean code more than coffee  
+- 🌱 I never stop learning (currently: NestJS best practices)
+- 🧩 I once optimized a UI so well, my mentor asked: "How did you do that?"
 
-
+</div>
 
 
 
