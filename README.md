@@ -66,7 +66,7 @@ content: |
 | Tailwind, Redux                                                                                           | Django                                                                                                          |                                                                                     | Unit & Integration Testing                                                                     |
 
 ## GitHub War Room
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" /> </div>
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=berahaan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=berahaan&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" /> </div>
 
 ## Golden Trophy Case
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Commits,Issues,Stars,Repositories,Reviews,Followers" /> </div>
