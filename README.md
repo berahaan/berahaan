@@ -28,6 +28,7 @@
 
 ## 🌟 **Tech Superpowers**
 
+
 <div align="center">
   
 | **Next.js Mastery** | **Debugging Wizardry** | **Performance Sorcery** |
@@ -42,70 +43,35 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## ⚡️ **Tech Stack Galaxy**
+content: |
+  ## ⚡️ **Tech Stack Galaxy**
 
-<div align="center">
-  
-```mermaid
-pie showData
-    title My Tech Universe
-    "Next.js" : 35
-    "React Ecosystem" : 25
-    "Backend" : 15
-    "DevOps" : 15
-    "Testing (Jest)" : 10
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+  ```mermaid
+  pie showData
+      title My Tech Universe
+      "Next.js" : 35
+      "React Ecosystem" : 25
+      "Backend" : 15
+      "DevOps" : 15
+      "Testing (Jest)" : 10
 
-## ⚔️ Tech Weaponry
+⚔️ Tech Weaponry
 
-| Frontend Arsenal | Backend Armory | Database Fortress | DevOps & Tools |
-|----------------------|--------------------|-----------------------|--------------------|
-| ![Frontend](https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,nextjs,redux&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,python,django,php,express,flask&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jest&theme=dark) |
-| JavaScript, React | Next.js , Node.js | MongoDB, PostgreSQL | Docker, AWS, Jest |
-| TypeScript, Next.js | Python , PHP | Firebase | Git, Version Control |
-| Tailwind, Redux | Django | supabase | Unit & Integration Testing |
+| Frontend Arsenal                                                                                          | Backend Armory                                                                                                  | Database Fortress                                                                   | DevOps & Tools                                                                                 |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![Frontend](https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,nextjs,redux\&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,python,django,php,express,flask\&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase\&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jest\&theme=dark) |
+| JavaScript, React                                                                                         | Next.js , Node.js                                                                                               | MongoDB, PostgreSQL                                                                 | Docker, AWS, Jest                                                                              |
+| TypeScript, Next.js                                                                                       | Python , PHP                                                                                                    | Firebase, Supabase                                                                  | Git, Version Control                                                                           |
+| Tailwind, Redux                                                                                           | Django                                                                                                          |                                                                                     | Unit & Integration Testing                                                                     |
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+📊 GitHub War Room
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" /> </div>
 
-## 📊 GitHub War Room
-<div align="center">
-  
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
-</div>
+🏆 Golden Trophy Case
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Commits,Issues,Stars,Repositories,Reviews,Followers" /> </div>
 
+🎮 Debugging Arena
 
-</div>
-
-<!-- <div>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&random=1" width="90%"/>
-</div> -->
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-## 🏆 🏆 Golden Trophy Case
-<div align="center">
-  
-
-<img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Commits,Issues,Stars,Repositories,Reviews,Followers" />
-
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🎮 Debugging Arena
 const debugLikeABoss = (problem) => {
   const solutions = [];
   
@@ -123,94 +89,32 @@ const debugLikeABoss = (problem) => {
   return "🏆 High score achieved!";
 }
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-</div>
-
-<div align="center">
-
-| Clean Code Addict | Learning Enthusiast |
-|-----------------------|-------------------------|
-| <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"> | <img src="https://media.giphy.com/media/l0HU20BZ6LbSEITza/giphy.gif" width="200"> |
-| Beautiful code is my caffeine | Currently mastering Next.js |
-| Refactoring is my therapy | Always exploring new tech |
-| TypeScript evangelist | Currently learning: Rust |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🎨 Code Canvas
-
-<div align="center">
-  
-![3D Coding Sphere](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<!-- Email (mailto links don't need target="_blank") -->
-[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berahaan@gmail.com)
-
-<!-- Other social links with target="_blank" -->
-<a href="https://instagram.com/siyamregn3779" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://discordapp.com/users/siyamregn" target="_blank">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-
-<a href="https://t.me/siyamregn1" target="_blank">
-  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-
-<a href="https://wa.me/+251947363764" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berahaan@gmail.com)  
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siyamregn3779)  
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/siyamregn)  
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siyamregn1)  
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251947363764)
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🎵 Coding Soundtrack
-
-<div align="center">
-    
-  <a href="https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+🎵 Coding Soundtrack
+<div align="center"> <a href="https://open.spotify.com/user/31iowxfkkvbtczrtilhdxj64rzzy" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> </a> </div>
 
 💡 Fun Facts
-    
 🕹 I treat debugging like a game
-    
 ⚙️ I love clean code more than coffee
-    
-🌱 I never stop learning. My current obsession: NestJS best practices
-    
-🧩 I once optimized a UI so well, my mentor asked: “How did you do that?”
-<div align="center">
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+🌱 I never stop learning (currently: NestJS best practices)
+🧩 I once optimized a UI so well, my mentor asked: “How did you do that?
 
 ```
+
+
+
+
 
