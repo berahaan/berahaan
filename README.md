@@ -55,6 +55,9 @@ content: |
       "DevOps" : 15
       "Testing (Jest)" : 10
   ```
+## 📈 GitHub Stats
+
+<img src="https://github-profile-trophy.vercel.app/?username=berahaan&theme=onedark&no-bg=true&no-frame=true&title=Commit,PR,Issues" />
 
 ⚔ Tech Weaponry
 
