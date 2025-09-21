@@ -79,8 +79,10 @@ My systematic approach delivers real results:
 - 📊 Detailed reporting on root cause and prevention
 
 ```
-## My proven debugging framework:
+## 🛠️ My Development Approach
+### Debugging Framework
 
+```javascript
 const debugLikeABoss = (problem) => {
   const solutions = [];
   const startTime = Date.now();
@@ -99,6 +101,7 @@ const debugLikeABoss = (problem) => {
   
   return "🏆 High score achieved!";
 }
+```
 
 ##  Connect With Me
 
