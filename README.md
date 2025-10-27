@@ -195,10 +195,15 @@ export function useFetch(url) {
 🌍 Dreaming of building scalable apps that impact millions
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800" alt="Coding Banner">
+</p>
+
+<p align="center">
   <strong>Thanks for visiting! 🚀</strong><br>
   <em>Let's connect and build something amazing!</em>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/9LRf7pV.gif" width="100%" alt="Bottom Banner"> 
+  <img src="https://github.com/berahankabtamu/berahankabtamu/assets/123456789/abcdef01-2345-6789-abcd-ef0123456789" width="800" alt="Bottom Banner">
 </p>
+
