@@ -103,7 +103,6 @@ mindmap
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=berahaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
 
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=berahaan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
@@ -112,7 +111,7 @@ mindmap
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berahaan&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="400"/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=berahaan&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" width="800"/>
+
 
 </div>
 
@@ -158,10 +157,8 @@ export function useFetch(url) {
 🤝 Collaborated on projects with cross-functional teams and clients
 
 ---
-
 ## 📈 **Activity Graph**
-![Contribution Snake](https://raw.githubusercontent.com/berahankabtamu/berahankabtamu/output/github-contribution-grid-snake.svg)
-
+![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🎯 **Current Focus**
@@ -176,10 +173,12 @@ export function useFetch(url) {
 ## 📫 **Connect With Me**
 
 <p align="center"> 
-  <a href="mailto:berahan.kabtamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-  <a href="https://t.me/berahan_dev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/berahan-kabtamu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:berahaan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="https://t.me/bekind2yourself"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
   <a href="https://github.com/berahankabtamu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://wa.me/+251947363764">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -202,8 +201,9 @@ export function useFetch(url) {
   <strong>Thanks for visiting! 🚀</strong><br>
   <em>Let's connect and build something amazing!</em>
 </p>
-
 <p align="center">
-  <img src="https://github.com/berahankabtamu/berahankabtamu/assets/123456789/abcdef01-2345-6789-abcd-ef0123456789" width="800" alt="Bottom Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077B6&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20🚀&fontSize=28&fontColor=ffffff" width="100%" alt="Footer Banner"/>
 </p>
+
+
 
