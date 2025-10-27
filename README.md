@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/GyHh1p7.gif" width="100%" alt="Coding Banner">
+ <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding Banner"
 </p>
 
 <p align="center">
-  I'm a <strong>Full-Stack Developer</strong>with who loves building end-to-end digital products — from database design to pixel-perfect UI.<br>
+  I'm a <strong>Full-Stack Developer</strong>who loves building end-to-end digital products — from database design to pixel-perfect UI.<br>
   I blend clean architecture with intuitive user experience to craft **modern, scalable web apps**.<br>
   Always learning, always improving 🚀
 </p>
@@ -194,6 +194,6 @@ export function useFetch(url) {
 
 🌍 Dreaming of building scalable apps that impact millions
 
-<p align="center"> 
-  <img src="https://i.imgur.com/9LRf7pV.gif" width="100%" alt="Bottom Banner"> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🚀;Let's+connect+and+build+something+amazing!" alt="Thanks Message" />
 </p>
