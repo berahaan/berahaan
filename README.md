@@ -1,131 +1,199 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=22F7A3&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%9A%80+BIRHAN+HABTAMU;FULL-STACK+DEV+%7C+TECH+ARTISAN" alt="Animated Typing Header" />
-
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&height=80&lines=👋+Hey+there!+I'm+BIRHAN+KABTAMU;Full-Stack+Developer+%7C+System+Thinker;Creating+Beautiful+Frontend+%2B+Reliable+Backend" alt="Typing Animation" />
 </h1>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 <p align="center">
-  I'm a <strong>Full-Stack Developer</strong> who loves building robust, user-friendly web applications that solve real-world problems.<br>
-  With a Bachelor's degree in <a href="#" target="_blank"><img src="https://img.shields.io/badge/Computer_Engineering-FF0000?style=flat&logoColor=white" alt="Computer Engineering"></a>, I have a solid foundation in both frontend and backend developments.
+  <img src="https://i.imgur.com/GyHh1p7.gif" width="100%" alt="Coding Banner">
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3F7&center=true&vCenter=true&width=600&lines=I+transform+ideas+into+high-performance+apps;Specializing+in+scalable+web+solutions;Clean+code+fanatic+%7C+Debugging+ninja;Let's+build+something+amazing+together" alt="Typing SVG">
-  </a>
+  I'm a <strong>Full-Stack Developer</strong>with who loves building end-to-end digital products — from database design to pixel-perfect UI.<br>
+  I blend clean architecture with intuitive user experience to craft **modern, scalable web apps**.<br>
+  Always learning, always improving 🚀
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=berahaan&label=PROFILE+VISITS&color=2962FF&style=for-the-badge" alt="Profile Views" /> 
-  <img src="https://img.shields.io/badge/Daily_Coding_Streak-50+-brightgreen?style=for-the-badge" alt="Coding Streak">
-</p>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-
-## 🌟 **Tech Superpowers**
-
-
-<div align="center">
-  
-| **Next.js Mastery** | **Debugging Wizardry** | **Performance Sorcery** |
-|---------------------|------------------------|-------------------------|
-| ![Next.js GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) | ![Debug GIF](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif) | ![Speed GIF](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif) |
-| SSR/SSG/ISR Expert | Squashing bugs like a pro | high Optimizing scores |
-| App Router Pro | Problem-solving ninja | Lighthouse optimization |
-| Edge Runtime | Algorithm master | Bundle size reduction |
-
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-content: |
-  ## ⚡️ **Tech Stack Galaxy**
-
-  ```mermaid
-  pie showData
-      title My Tech Universe
-      "Next.js" : 35
-      "React Ecosystem" : 25
-      "Backend" : 15
-      "DevOps" : 15
-      "Testing (Jest)" : 10
-  ```
-
-⚔ Tech Weaponry
-
-| Frontend Arsenal                                                                                          | Backend Armory                                                                                                  | Database Fortress                                                                   | DevOps & Tools                                                                                 |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![Frontend](https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,nextjs,redux\&theme=dark) | ![Backend](https://skillicons.dev/icons?i=javascript,nodejs,nestjs,python,django,php,express,flask,go\&theme=dark) | ![Database](https://skillicons.dev/icons?i=mongodb,postgresql,firebase\&theme=dark) | ![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,jest\&theme=dark) |
-| JavaScript, React                                                                                         | Next.js , Node.js                                                                                               | MongoDB, PostgreSQL                                                                 | Docker, AWS, Jest                                                                              |
-| TypeScript, Next.js                                                                                       | Python , PHP, Go                                                                                                    | Firebase, Supabase                                                                  | Git, Version Control                                                                           |
-| Tailwind, Redux                                                                                           | Django                                                                                                          |                                                                                     | Unit & Integration Testing                                                                     |
-
-## Golden Trophy Case
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onestar&no-bg=true&no-frame=true&title=PullRequest,Commits,Issues,Stars,Repositories,Reviews,Followers" /> </div>
-
-
-
-```markdown
-## 🎮 Debugging Arena - Client Results
-
-My systematic approach delivers real results:
-- ⏱️ 40% faster bug resolution than industry average
-- 🎯 95% success rate on critical production fixes
-- 📊 Detailed reporting on root cause and prevention
-
+### 🧭 **About Me**
+```yaml
+name: "Birhan Kabtamu"
+role: "Full-Stack Developer"
+focus: ["Frontend + Backend Integration", "API Architecture", "Performance Optimization"]
+stack: ["Go", "Node.js", "React", "Next.js", "PostgreSQL"]
+currently_learning: "System Design & Microservices"
+philosophy: "Write clean code, design scalable systems, and keep users happy."
 ```
-## 🛠️ My Development Approach
-### Debugging Framework
 
+---
+
+🧩 **Tech Ecosystem**
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Database & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## ⚡ **Development Focus**
+
+🧱 Building full-stack apps with **React**, **Next.js**, **Vue.js**, **Tailwind CSS** + **Go**, **Node.js**, **PHP** backend
+
+🔗 Designing **RESTful APIs**, **GraphQL APIs** and efficient data models
+
+⚙️ Writing reusable UI components & hooks
+
+🚦 Setting up CI/CD pipelines for automated testing and deployment
+
+🧠 Exploring microservices, caching, and load optimization
+
+### **My Tech Mindmap**
+```mermaid
+mindmap
+  root((Full-Stack))
+    Frontend
+      React
+      Next.js
+      Tailwind
+    Backend
+      Go
+      Node.js
+      Express
+    Database
+      PostgreSQL
+      MongoDB
+      Redis
+    DevOps
+      Docker
+      GitHub Actions
+      Linux
+```
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=berahankabtamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=berahankabtamu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berahankabtamu&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="400"/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=berahankabtamu&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" width="800"/>
+
+</div>
+
+---
+
+---
+
+## 💻 **Code Snapshots**
+
+### Backend: Go REST API example
+```go
+// Backend: Go REST API example
+r := gin.Default()
+r.GET("/api/health", func(c *gin.Context) {
+    c.JSON(200, gin.H{"status": "OK", "service": "API is running 🚀"})
+})
+r.Run(":8080")
+```
+
+### Frontend: Reusable React Hook
 ```javascript
-const debugLikeABoss = (problem) => {
-  const solutions = [];
-  const startTime = Date.now();
-  
-  while (!problem.isSolved()) {
-    const solution = analyze(problem);
-    solutions.push(solution);
-    problem.apply(solution);
-     if (problem.isSolved()) {
-      const resolveTime = ((Date.now() - startTime) / 1000 / 60).toFixed(1);
-      celebrate();
-      return `✅ Bug squashed! | Time: ${resolveTime}m | Solutions: ${solutions.length}`;
-    }
-   
-  }
-  
-  return "🏆 High score achieved!";
+import { useEffect, useState } from 'react';
+
+export function useFetch(url) {
+  const [data, setData] = useState(null);
+  useEffect(() => {
+    fetch(url).then(res => res.json()).then(setData);
+  }, [url]);
+  return data;
 }
 ```
 
-##  Connect With Me
+---
 
-<div align="center">
+## 🏆 **Achievements**
 
-[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berahaan@gmail.com)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/birhanh)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bekind2yourself)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+251947363764)
+🚀 Built and deployed multiple full-stack applications
 
-</div>
-  
-</div>
-<div>
-  
-  ## 💡 Fun Facts
-- 🕹️ I treat debugging like a game
-- ⚙️ I love clean code more than coffee  
-- 🌱 I never stop learning (currently: NestJS best practices)
-- 🧩 I once optimized a UI so well, my mentor asked: "How did you do that?"
+🧩 Implemented caching layers that improved response time by 40%
 
-</div>
+🧱 Created modular Go APIs and integrated them with React frontends
 
+🤝 Collaborated on projects with cross-functional teams and clients
 
+---
 
+## 📈 **Activity Graph**
+![Contribution Snake](https://raw.githubusercontent.com/berahankabtamu/berahankabtamu/output/github-contribution-grid-snake.svg)
 
+---
+
+## 🎯 **Current Focus**
+
+- 🔥 **Building scalable web applications** with modern frameworks
+- 🚀 **Optimizing performance** and user experience
+- 📚 **Learning advanced patterns** in React and Node.js
+- 🌟 **Contributing to open source** projects
+
+---
+
+## 📫 **Connect With Me**
+
+<p align="center"> 
+  <a href="mailto:berahan.kabtamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="https://t.me/berahan_dev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
+  <a href="https://linkedin.com/in/berahan-kabtamu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/berahankabtamu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> 
+</p>
+
+---
+
+## ☕ **Fun Bits**
+
+🎮 I treat problem-solving like gaming — strategy first
+
+💡 I enjoy turning wireframes into living products
+
+🧠 Logic puzzles and clean code fuel my mornings
+
+🌍 Dreaming of building scalable apps that impact millions
+
+<p align="center"> 
+  <img src="https://i.imgur.com/9LRf7pV.gif" width="100%" alt="Bottom Banner"> 
+</p>
