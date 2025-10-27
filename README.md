@@ -195,5 +195,10 @@ export function useFetch(url) {
 🌍 Dreaming of building scalable apps that impact millions
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🚀;Let's+connect+and+build+something+amazing!" alt="Thanks Message" />
+  <strong>Thanks for visiting! 🚀</strong><br>
+  <em>Let's connect and build something amazing!</em>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/9LRf7pV.gif" width="100%" alt="Bottom Banner"> 
 </p>
