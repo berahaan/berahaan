@@ -103,16 +103,16 @@ mindmap
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=berahankabtamu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=berahaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=berahankabtamu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=berahaan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berahankabtamu&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berahaan&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="400"/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=berahankabtamu&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" width="800"/>
+<img src="https://github-profile-trophy.vercel.app/?username=berahaan&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" width="800"/>
 
 </div>
 
