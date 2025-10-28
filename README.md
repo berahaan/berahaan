@@ -193,9 +193,7 @@ export function useFetch(url) {
 
 🌍 Dreaming of building scalable apps that impact millions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800" alt="Coding Banner">
-</p>
+
 
 <p align="center">
   <strong>Thanks for visiting! 🚀</strong><br>
