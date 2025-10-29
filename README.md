@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=100&lines=👋+Hey+there!+I'm+BIRHAN+KABTAMU;Full-Stack+Developer+%7C+System+Thinker;Creating+Beautiful+Frontend+%2B+Reliable+Backend" alt="Typing Animation" />
-</h1>
+# 👋 Hey there! I'm BIRHAN KABTAMU
+
+![Full-Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-blue?style=for-the-badge)
+![System Thinker](https://img.shields.io/badge/System-Thinker-purple?style=for-the-badge)
+![Frontend + Backend](https://img.shields.io/badge/Frontend%20%2B%20Backend-green?style=for-the-badge)
+
+
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding Banner"
