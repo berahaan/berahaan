@@ -1,8 +1,7 @@
-# 👋 Hey there! I'm BIRHAN KABTAMU
 
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack%20Developer-blue?style=for-the-badge)
-![System Thinker](https://img.shields.io/badge/System-Thinker-purple?style=for-the-badge)
-![Frontend + Backend](https://img.shields.io/badge/Frontend%20%2B%20Backend-green?style=for-the-badge)
+<p align="center">
+  <img src="./static-header.svg" width="800" alt="BIRHAN KABTAMU Header">
+</p>
 
 
 
