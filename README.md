@@ -25,7 +25,7 @@
 name: "Birhan Kabtamu"
 role: "Full-Stack Developer"
 focus: ["Frontend + Backend Integration", "API Architecture", "Performance Optimization"]
-stack: ["Go", "Node.js", "React", "Next.js", "PostgreSQL"]
+stack: ["Go", "PHP", "Node.js", "React", "Next.js","Vue.js", "PostgreSQL"]
 currently_learning: "System Design & Microservices"
 philosophy: "Write clean code, design scalable systems, and keep users happy."
 ```
