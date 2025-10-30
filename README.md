@@ -13,12 +13,10 @@
 </p>
 
 <p align="center">
-  I'm a <strong>Full-Stack Developer</strong>who loves building end-to-end digital products — from database design to pixel-perfect UI.<br>
+  I'm a <strong>Full-Stack Developer</strong> who loves building end-to-end digital products from database design to pixel-perfect UI.<br>
   I blend clean architecture with intuitive user experience to craft **modern, scalable web apps**.<br>
   Always learning, always improving 🚀
 </p>
-
----
 
 ### 🧭 **About Me**
 ```yaml
@@ -29,8 +27,6 @@ stack: ["Go", "PHP", "Node.js", "React", "Next.js","Vue.js", "PostgreSQL"]
 currently_learning: "System Design & Microservices"
 philosophy: "Write clean code, design scalable systems, and keep users happy."
 ```
-
----
 
 🧩 **Tech Ecosystem**
 
