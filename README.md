@@ -118,7 +118,7 @@ mindmap
 ### Backend: REST API example
 ```php
 <?php
-// Simple PHP REST API Example
+
 
 header("Content-Type: application/json; charset=UTF-8");
 
@@ -141,7 +141,6 @@ if ($uri === '/api/health') {
 ```
 
 ```go
-// Backend: Go REST API example
 r := gin.Default()
 r.GET("/api/health", func(c *gin.Context) {
     c.JSON(200, gin.H{"status": "OK", "service": "API is running 🚀"})
