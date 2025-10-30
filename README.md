@@ -79,26 +79,26 @@ philosophy: "Write clean code, design scalable systems, and keep users happy."
 
 ### **My Tech Mindmap**
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'mindmapTextColor': '#333333'}}}%%
 mindmap
-  root((Full-Stack))
-    Frontend
-      React
-      Next.js
-      Tailwind
-    Backend
-      Go
-      Node.js
-      PHP
-      Express
-    Database
-      PostgreSQL
-      MongoDB
-      Redis
-    DevOps
-      Docker
-      GitHub Actions
-      Linux
-
+root((Full-Stack))
+  Frontend
+    React
+    Next.js
+    Tailwind
+  Backend
+    Go
+    Node.js
+    PHP
+    Express
+  Database
+    PostgreSQL
+    MongoDB
+    Redis
+  DevOps
+    Docker
+    GitHub Actions
+    Linux
 ```
 
 ---
