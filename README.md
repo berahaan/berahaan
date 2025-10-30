@@ -47,6 +47,7 @@ philosophy: "Write clean code, design scalable systems, and keep users happy."
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -91,6 +92,7 @@ mindmap
     Backend
       Go
       Node.js
+      PHP
       Express
     Database
       PostgreSQL
@@ -100,34 +102,44 @@ mindmap
       Docker
       GitHub Actions
       Linux
+
 ```
 
 ---
 
 ## 📊 **GitHub Statistics**
 
-<div align="center">
 
-<!-- GitHub Stats -->
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=berahaan&theme=tokyonight&hide_border=true" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berahaan&layout=compact&theme=tokyonight&hide_border=true" width="400"/> </div>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=berahaan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berahaan&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="400"/>
-
-<!-- GitHub Trophies -->
-
-
-</div>
-
----
-
----
 
 ## 💻 **Code Snapshots**
 
-### Backend: Go REST API example
+### Backend: REST API example
+```php
+<?php
+// Simple PHP REST API Example
+
+header("Content-Type: application/json; charset=UTF-8");
+
+$uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+
+if ($uri === '/api/health') {
+    echo json_encode([
+        "status" => "OK",
+        "service" => "API is running 🚀"
+    ]);
+} else {
+    http_response_code(404);
+    echo json_encode(["error" => "Endpoint not found"]);
+}
+?>
+
+
+
+
+```
+
 ```go
 // Backend: Go REST API example
 r := gin.Default()
@@ -182,7 +194,7 @@ export function useFetch(url) {
   <a href="mailto:berahaan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://t.me/bekind2yourself"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
   <a href="https://github.com/berahankabtamu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> 
-  <a href="https://wa.me/+251947363764">
+  <a href="https://wa.me/994554">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
