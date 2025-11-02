@@ -14,8 +14,8 @@
 
 <p align="center">
   I'm a <strong>Full-Stack Developer</strong> who loves building end-to-end digital products from database design to pixel-perfect UI.<br>
-  I blend clean architecture with intuitive user experience to craft **modern, scalable web apps**.<br>
-  Always learning, always improving.
+  I blend clean architecture with intuitive user experience to craft <strong>modern, scalable web apps. </strong><br>
+  Always learning, always improving 
 </p>
 
 ### 🧭 **About Me**
