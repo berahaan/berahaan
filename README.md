@@ -22,10 +22,10 @@
 ```yaml
 name: Birhan Kabtamu
 role: Full-Stack Developer
-focus: ["Frontend + Backend Integration", "API Architecture", "Performance Optimization"]
-stack: ["Go", "PHP", "Node.js", "React", "Next.js","Vue.js", "PostgreSQL"]
-currently_learning: "System Design & Microservices"
-philosophy: "Write clean code, design scalable systems, and keep users happy."
+focus: [Frontend + Backend Integration, API Architecture, Performance Optimization]
+stack: [Go, PHP, Node.js, React, Next.js, Vue.js, PostgreSQL]
+currently_learning: System Design & Microservices
+philosophy: Write clean code, design scalable systems, and keep users happy.
 ```
 
 🧩 **Tech Ecosystem**
@@ -115,7 +115,6 @@ root((Full-Stack))
 ```php
 <?php
 
-
 header("Content-Type: application/json; charset=UTF-8");
 
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
@@ -130,10 +129,6 @@ if ($uri === '/api/health') {
     echo json_encode(["error" => "Endpoint not found"]);
 }
 ?>
-
-
-
-
 ```
 
 ```go
